@@ -1,2 +1,2 @@
 git is very good
-git...
+g
